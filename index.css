@@ -1,0 +1,13 @@
+body {
+    background-color: azure;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    height: 40vh;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    margin: 3px;
+}
